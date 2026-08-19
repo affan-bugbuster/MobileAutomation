@@ -1,0 +1,15 @@
+C:\Workspaces\QA bootcamp\MobileV3\src\test\java\pageObjects\BasePage.java
+C:\Workspaces\QA bootcamp\MobileV3\src\test\java\pageObjects\CartPage.java
+C:\Workspaces\QA bootcamp\MobileV3\src\test\java\pageObjects\FinalPurchasePage.java
+C:\Workspaces\QA bootcamp\MobileV3\src\test\java\pageObjects\HomePage.java
+C:\Workspaces\QA bootcamp\MobileV3\src\test\java\pageObjects\ProductPage.java
+C:\Workspaces\QA bootcamp\MobileV3\src\test\java\testBase\BaseClass.java
+C:\Workspaces\QA bootcamp\MobileV3\src\test\java\testCases\AddToCart.java
+C:\Workspaces\QA bootcamp\MobileV3\src\test\java\testCases\CompletePurchase.java
+C:\Workspaces\QA bootcamp\MobileV3\src\test\java\testCases\LaunchApp.java
+C:\Workspaces\QA bootcamp\MobileV3\src\test\java\testCases\LetsShop.java
+C:\Workspaces\QA bootcamp\MobileV3\src\test\java\testCases\ShopSelectingUnitedStates.java
+C:\Workspaces\QA bootcamp\MobileV3\src\test\java\testCases\TermsAndConditions.java
+C:\Workspaces\QA bootcamp\MobileV3\src\test\java\testCases\ValidateToastMessage.java
+C:\Workspaces\QA bootcamp\MobileV3\src\test\java\utilities\ExtentReportManager.java
+C:\Workspaces\QA bootcamp\MobileV3\src\test\java\utilities\RetryAnalyzer.java
